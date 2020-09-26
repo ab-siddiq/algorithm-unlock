@@ -1573,3 +1573,6 @@ section {
   font-size: 13px;
   color: #fff;
 }
+
+/*modified css*/
+#portfolio img{border: 1px solid #FFC451;}
